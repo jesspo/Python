@@ -1,6 +1,6 @@
 # R
 
-##Clean your workspace
+## Clean your workspace
 
 First. Take a look which elements are in your workspace
 
@@ -11,5 +11,4 @@ Then. Clean them
 
 ```R
 rm(list=ls())
-``
-
+```
