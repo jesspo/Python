@@ -1,2 +1,2 @@
-# Python
-Python, basic commands
+# R
+R, basic commands
